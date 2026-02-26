@@ -18,7 +18,7 @@ There are no term limits for GB members.
 
 # Voter Eligibility
 
-Eligible voters include the existing GB, Chairs for our WGs (listed in[ https://chaoss.community/kb/working-groups/](https://chaoss.community/kb/working-groups/)), our software maintainers (listed in the MAINTAINERS.md files for GrimoireLab and Augur), anyone making any type of contribution to a CHAOSS GitHub Repository, and the people listed in[ https://github.com/chaoss/community/blob/main/community-contributions.md](https://github.com/chaoss/community/blob/main/community-contributions.md) for contributions made in the past year will be eligible to vote in the election. There will also be a private exception process enabled.
+Eligible voters include the existing GB, Chairs for our WGs (listed in [https://chaoss.community/kb/working-groups/](https://chaoss.community/kb/working-groups/)), our software maintainers (listed in the MAINTAINERS.md files for GrimoireLab and Augur), anyone making any type of contribution to a CHAOSS GitHub Repository, and the people listed in [https://github.com/chaoss/community/blob/main/community-contributions.md](https://github.com/chaoss/community/blob/main/community-contributions.md) for contributions made in the past year will be eligible to vote in the election. There will also be a private exception process enabled.
 
 Before the start of each election, the election officers will work with each of these groups to ensure that the list of people is up to date and encourage people to add themselves to[ community-contributions.md](http://community-contributions.md/) in time for the election deadlines. Since anyone can add themselves to community-contributions.md, this will also undergo a short audit to avoid ballot stuffing or other abuse. 
 
